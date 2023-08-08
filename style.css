@@ -171,7 +171,7 @@ header::after {
 }
 
 .hero_el>img {
-    width: 45vw;
+    width: 35vw;
     height: auto;
     aspect-ratio: 0.8852/1;
     position: absolute;
@@ -285,6 +285,7 @@ header::after {
     display: flex;
     flex-flow: column nowrap;
     padding: 3% 0;
+    margin: 0 3%;
 }
 
 .flavor img {
@@ -643,6 +644,7 @@ footer p {
 
     .flavor {
         width: 150px;
+        margin: 0;
     }
 
     .flavor img {
